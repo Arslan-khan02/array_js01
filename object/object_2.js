@@ -9,7 +9,9 @@ const course = {
 
 }
 const{coursename : name}=course // : isse apne hisab se name bhi deskte hai
-const{courseinstructor : instructor}=course // : restructuring
+const{courseinstructor : instructor}=course // : destructuring
 
 console.log(name); 
 console.log(instructor);
+
+// 2/12/24
