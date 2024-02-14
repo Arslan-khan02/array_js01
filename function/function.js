@@ -65,7 +65,7 @@
 
 // }
 // console.log(loginUser());
-function loginUser(username = "urvi"){
+function loginUser(username = "nobody"){
     // if(!username){
     //     console.log("please enter username");
     //     return
@@ -73,7 +73,7 @@ function loginUser(username = "urvi"){
     return `${username} just logged in`
 
 }
-console.log(loginUser("asrlan"));
+console.log(loginUser("arslan_khan"));
 
 
 
